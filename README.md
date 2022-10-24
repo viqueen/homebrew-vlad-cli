@@ -1,4 +1,4 @@
-## homebrew-git-devbox
+## homebrew-vlad-cli
 
 ### install it
 
